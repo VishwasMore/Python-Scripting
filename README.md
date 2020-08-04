@@ -24,4 +24,4 @@
 - Download the Python Code 
 - Install all the need libraries 
 - Go to Terminal and write -> **python3 checkmypass.py PASSWORD**
-- Folder name should have all the pics which you need to convert and Create new folder where you need to save the converted images 
+
