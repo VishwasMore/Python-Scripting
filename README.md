@@ -25,3 +25,18 @@
 - Install all the need libraries 
 - Go to Terminal and write -> **python3 checkmypass.py PASSWORD**
 
+## Scrapping All Pokemon Images
+
+### How to use 
+
+- Download the Python Code 
+- Install all the need libraries 
+- Go to Terminal and write -> **python3 pokemonscrapper.py**
+
+## Send Email 
+
+### How to use 
+
+- Download the Python Code 
+- Enter Details whom to send and from which email id in Python code
+- Go to Terminal and write -> **python3 email_sender.py**
